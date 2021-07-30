@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84217136034",
+    "project_id": "ioextended-kumasi",
+    "storage_bucket": "ioextended-kumasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84217136034:android:83c95b2d66def3c300e8fb",
+        "android_client_info": {
+          "package_name": "com.ioextended.kumasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84217136034-5phnbduhju0h35cd1u92pshdkvl5au8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa0CZSqqvJp929FMLrg-RVQ9txb31vntc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84217136034-5phnbduhju0h35cd1u92pshdkvl5au8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
